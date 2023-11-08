@@ -1,2 +1,2 @@
 # IST-440W
-Repository for Peaky Blinders App Development
+Repository for GetFit App Development
